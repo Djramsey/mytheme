@@ -253,7 +253,7 @@ body{
 }
 
 a{
-    color:#00BCD4;
+    color:#00BCD4; /* links this color like blue */
 }
 
 #masthead{
@@ -261,14 +261,37 @@ a{
     background-color:#607D8B; /* grayish blue*/
 }
 
+
+
+
 body{
-    padding-top:0px;
+    background-color:#FFFFFF; 
+}
+
+.btn{
+    background-color:#00BCD4;/* changes btn to like a blue stuff */
+}
+
+
+.simple-social-icons ul li a, 
+.simple-social-icons ul li a:hover{
+    background-color:red;
 
 }
 
 
-body{
-    background-color:#FFFFFF
 
-    ; 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
