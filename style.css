@@ -40,6 +40,8 @@ RawBlameHistory     197 lines (117 sloc)  2.25 KB
 /* clears annoying stuff all te way till other comment */
 div.site-branding{
 	display:;
+    padding-top:50px; 
+    float:left;
 }
 
 d
