@@ -1,0 +1,262 @@
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @Djramsey
+ Unwatch 1
+  Star 0
+  Fork 0 Djramsey/mytheme
+ Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
+Branch: master Find file Copy pathmytheme/style.css
+5567dda  2 hours ago
+ ScriptEd idk commit
+0 contributors
+RawBlameHistory     197 lines (117 sloc)  2.25 KB
+/*
+ Theme Name:   mytheme
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk-master
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+
+
+#main-menu{
+	float:right;
+}
+
+
+/* clears annoying stuff all te way till other comment */
+div.site-branding{
+	display:none;
+}
+
+d
+#search > form > input{
+	display:none;
+}
+
+#search > form > label > input{
+	display:none;
+}
+
+#archives > h3{
+	display:none;
+}
+
+#meta > h3{
+	display:none;
+}
+
+#archives > ul > li > a{
+	display:none;
+}
+
+
+
+#meta > ul > li:nth-child(1) > a{
+	display:none;
+}
+
+#meta > ul > li:nth-child(2) > a{
+	display: none;
+}
+
+#post-19 > header > h1{
+	display:none;
+}
+
+/* up to here */
+
+
+
+#content{
+padding:0px;
+
+
+
+}
+
+div.jumbotron{
+	background-color: #607D8B;
+	height:500px;
+	margin-bottom:1000px; 
+	/*background-image:url(http://otakukart.com/animeblog/wp-content/uploads/2015/12/website-background-imac-blue-85015.jpg) */
+
+
+}
+
+div.jumbotron{
+	background-repeat:no-repeat;
+	 background-size: 1700px 500px;
+}
+
+
+/* header */
+#navbar-collapse{
+	background-color:transparent;
+	max-width:970px;
+}
+
+
+
+
+
+
+
+
+
+#post-36 > div > div.content > div > div:nth-child(1) > div{
+	background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+ /*
+ body {
+  min-height: 2000px;
+  padding-top: 0px;
+    }
+    .jumbotron {
+    position: relative;
+    background: none;
+    padding: 0px;
+    margin-bottom: 0px;
+    min-height: 500px;
+    }
+    .jumbotron:after {
+    content:"";
+    background: url("img/2gratermay20121.jpg");
+    background-repeat:no-repeat;
+    background-position: 0% 0%;
+    background-size: 100% 100%;
+    opacity: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+    }
+*/
+
+header{
+	/*height:0px;
+	/*background-color:red; */
+	
+
+}
+
+body{
+background-color:#fff;
+color:black;
+}
+
+
+/*header {
+    
+    height:100vh;
+}
+*/
+header h1 {
+    margin: 0;
+}
+
+
+body > nav{
+	/*background-color: red;*/
+	height:200px;
+    background-color:#607D8B;
+	/*background-image:url(http://otakukart.com/animeblog/wp-content/uploads/2015/12/website-background-imac-blue-85015.jpg)*/ 
+
+
+}
+
+
+.navbar-inner {
+    background-color:transparent;
+
+}
+
+.site-navigation-inner{
+	padding:0px;
+
+}
+#main-menu{
+	float:right;
+}
+
+body{
+	height:1000px;
+
+}
+
+#post-19 > div > nav{
+    display:none;
+}
+
+.navbar-default{
+    background-color:transparent;
+    color:white;
+}
+.navbar{
+    border:0px;
+}
+
+#menu-item-29 > a{
+    color:white;
+}
+
+#menu-item-30 > a{
+    color:white;
+}
+
+#menu-item-31 > a{
+    color:white;
+}
+
+
+#menu-item-61 > a{
+    color:white;
+}
+
+#menu-item-40 > a{
+    color:white;
+}
+
+#menu-item-28 > a{
+    color:white;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    background-color:#337ab7;
+}
+
+
+#post-19 > div > div.jumbotron > h1{
+    text-align:center;
+    color:#fff;
+}
+
+#post-19 > div > div.jumbotron > p:nth-child(2){
+    text-align:center;
+    color:#fff;
+}
+
+a{
+    color:#00BCD4;
+}
+
+
+
