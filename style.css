@@ -39,7 +39,7 @@ RawBlameHistory     197 lines (117 sloc)  2.25 KB
 
 /* clears annoying stuff all te way till other comment */
 div.site-branding{
-	display:none;
+	display:;
 }
 
 d
@@ -260,7 +260,7 @@ a{
 }
 
 #masthead{
-    height:px;
+    height:100px;
     background-color:#607D8B; /* grayish blue*/
 }
 
@@ -294,11 +294,12 @@ h1,h2,h3,h4,h5,h6 {
 
 body{
 font-family: 'Open Sans', sans-serif;
+text-align:center;
 }
 
-
-
-
+#wpcf7-f57-p13-o1 > form > p:nth-child(6) > input{
+ background-color: #00BCD4;
+}
 
 
 
