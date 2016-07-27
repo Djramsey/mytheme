@@ -102,8 +102,10 @@ div.jumbotron{
 
 /* header */
 #navbar-collapse{
-	background-color:transparent;
-	max-width:970px;
+	background-color:#455A64;
+	max-width:px;
+    margin::0px;
+
 }
 
 
@@ -158,11 +160,7 @@ header{
 
 }
 
-body{
-background-color:#fff;
-color:black;
-padding-top:70px;
-}
+
 
 
 /*header {
@@ -177,7 +175,7 @@ header h1 {
 
 body > nav{
 	
-	height:200px;
+	height:;
     background-color:#607D8B;
 	
 
@@ -259,10 +257,18 @@ a{
 }
 
 #masthead{
-    height:100px;
+    height:px;
     background-color:#607D8B; /* grayish blue*/
 }
 
 body{
     padding-top:0px;
+
+}
+
+
+body{
+    background-color:#FFFFFF
+
+    ; 
 }
