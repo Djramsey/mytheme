@@ -161,6 +161,7 @@ header{
 body{
 background-color:#fff;
 color:black;
+padding-top:70px;
 }
 
 
@@ -175,11 +176,10 @@ header h1 {
 
 
 body > nav{
-	/*background-color: red;*/
+	
 	height:200px;
     background-color:#607D8B;
-	/*background-image:url(http://otakukart.com/animeblog/wp-content/uploads/2015/12/website-background-imac-blue-85015.jpg)*/ 
-
+	
 
 }
 
@@ -258,8 +258,11 @@ a{
     color:#00BCD4;
 }
 
-body{
-    border:;
+#masthead{
+    height:100px;
+    background-color:#607D8B; /* grayish blue*/
 }
 
-
+body{
+    padding-top:0px;
+}
