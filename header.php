@@ -110,3 +110,18 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div id="content" class="main-content-inner col-sm-12 col-md-12">
+
+</div>
+
+
+<div class="row">
+  <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img src="..." alt="...">
+    </a>
+  </div>
+  ...
+</div>
+
+
+

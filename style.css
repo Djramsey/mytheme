@@ -320,3 +320,19 @@ text-align:center;
     background-color:black !important;/* important made it work .. ok. */
 }
 
+
+/*body > div.main-content > div > div.row > div.row > div > a{
+    position:absolute; /* able to move only thumbnail down
+    margin-top: 700px; 
+}
+*/
+body > div.main-content > div > div.row > div.row > div > a{
+    position:absolute;
+    margin-top:700px;       /* width of thumbnail */
+    width:500px;
+}
+
+body > div.main-content > div > div.row > div.row{
+    position:absolute; /* the div row disapears or in this case absolutes with the thumbnail*/
+}
+
