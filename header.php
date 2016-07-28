@@ -80,7 +80,7 @@
 						</button>
 	
 						<!-- Your site title as branding in the menu -->
-						<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
+						<a class="navbar-brand"> <img src="http://uttu.club/wp-content/uploads/2015/08/NIGHTOWL_LOGO_ALLBLACK-800x800.jpeg" style="width:35px;height:35px;"></a>
 					</div>
 
 					<!-- The WordPress Menu goes here -->
