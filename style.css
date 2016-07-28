@@ -301,10 +301,22 @@ text-align:center;
 
 #wpcf7-f57-p13-o1 > form > p:nth-child(6) > input{
  background-color: #00BCD4;
+
 }
 
 
 
 
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    background-color: darkblue;
 
+}
+
+#nav ul li:hover a{ 
+     color:black;
+}
+
+.nav.navbar-nav>li>a:hover{
+    background-color:black !important;/* important made it work .. ok. */
+}
 
