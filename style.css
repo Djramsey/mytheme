@@ -308,7 +308,7 @@ text-align:center;
 
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    background-color: darkblue;
+    background-color: #00BCD4;
 
 }
 
@@ -317,7 +317,7 @@ text-align:center;
 }
 
 .nav.navbar-nav>li>a:hover{
-    background-color:black !important;/* important made it work .. ok. */
+    background-color:orange !important;/* important made it work .. ok. */
 }
 
 
@@ -345,9 +345,7 @@ body{
     text-align:;
 }
 
-a{
-    text-align:;
-}
+
 
 
 
