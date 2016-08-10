@@ -346,7 +346,9 @@ body{
     text-align:;
 }
 
-
+#post-19 > div > div:nth-child(6) > img{
+    padding-bottom:300px;
+}
 
 
 
